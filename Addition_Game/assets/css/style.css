@@ -1,0 +1,80 @@
+.well {
+    background-color: rgba(245, 245, 245, 0.4);
+}
+
+body {
+    background: url(../../images/blur-background04.jpg);
+}
+
+.jumbotron {
+    font-size: 29px;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.panel {
+    position: center;
+    text-align: center;
+    font-size: 29px;
+}
+.panel-body {
+    color:rgb(46, 43, 43);
+    font-size: 20px;
+}
+
+p {
+    text-align: center;
+    font-size: 25px;
+    color:rgb(68, 0, 255);
+    font-weight: bolder
+}
+.p1 {
+    color: brown;
+    font-size: 32px;
+}
+.p2 {
+    color: brown;
+    font-size: 32px;
+}
+
+input {
+    position: relative;
+    height: 150px;
+    width: 150px;
+}
+
+#colWin {
+    text-align: left;
+    font-family: fantasy;
+    color: rgb(39, 31, 31);
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+#colLost {
+    text-align: left;
+    font-family: fantasy;
+    color: rgb(39, 31, 31);
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+#randomComputer {
+    text-align: left;
+    font-family: fantasy;
+    color: rgb(99, 8, 99);
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+}
+#userGuess {
+    text-align: left;
+    font-family: fantasy;
+    color: rgb(99, 8, 99);
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+}
