@@ -1,0 +1,47 @@
+# Portfolio
+A collection of development projects
+
+Focused on full stack development with an eye for clean front end design.
+
+My skills set includes a solid foundation in MySQL, JavaScript including jQuery and React, CSS, and HTML. I have used Git version control. I have also worked in WordPress.
+
+In addition to my development experience, I have an education in Economics and hold the Chartered Financial Analyst (CFA) designation. 
+
+My solid people skills will be a welcome contribution to communications among team members and non technical clients alike.
+
+**Personal portfolio website**
+jbrowncfa.github.io
+
+**Email**
+jonathan.brown@gmail.com
+
+**See Read Me files within individual projects for further information on each.**
+
+**1. ReactJS Memory Game**
+React memory game with multiple UI components and states responsive to user events.
+View the project live:
+https://cocky-wiles-0bae4e.netlify.com/
+
+**2. Web Scraping with NodeJS, Cheerio and MongoDB**
+Web app that lets users view and leave comments on the latest news in the New York Times. The application uses Mongoose, an Object Data Modeling (ODM) library for MongoDB and Node.js, and Cheerio a NodeJS package that takes raw HTML, parses it, and returns a jQuery object. 
+View the project live:
+http://nyt-mongo-scraper.herokuapp.com/
+
+**3. Python-check-update-transfer**
+Python 3.6 including tKinter GUI and SQSQLite3 database.
+
+**4. Images from web and design projects**
+Sample pages from Wordpress websites with WooCommerce.
+
+**Other projects of note**
+
+Links to a few of my evolving projects on GitHub which demonstrate varying skills but are not yet ready for my portfolio.
+
+Angular JS character designer:
+https://github.com/wallacedaniel/JavaScript-Exercises-and-Experiments/tree/master/Angular-Character-Designer
+
+JS jQuery BlackJack game:
+https://github.com/wallacedaniel/JavaScript-Exercises-and-Experiments/tree/master/blackjack
+
+Open Weather API JS app
+https://github.com/wallacedaniel/JavaScript-Exercises-and-Experiments/tree/master/OpenWeather-API-App
