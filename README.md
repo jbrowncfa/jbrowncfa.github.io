@@ -2,7 +2,7 @@
 
 A collection of development projects focused on full stack development with an eye for clean front end design.
 
-My skills set includes a solid foundation in MySQL, JavaScript including jQuery and React, CSS, and HTML. I have used Git version control. I have also worked in WordPress.
+My skills set includes a solid foundation in MySQL, JavaScript, including jQuery and React, CSS, and HTML. I have used Git version control. I have also worked in WordPress.
 
 In addition to my development experience, I have an education in Economics and hold the Chartered Financial Analyst (CFA) designation. 
 
