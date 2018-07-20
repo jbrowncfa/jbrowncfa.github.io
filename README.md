@@ -1,8 +1,6 @@
 # Portfolio
 
-A collection of development projects
-
-Focused on full stack development with an eye for clean front end design.
+A collection of development projects focused on full stack development with an eye for clean front end design.
 
 My skills set includes a solid foundation in MySQL, JavaScript including jQuery and React, CSS, and HTML. I have used Git version control. I have also worked in WordPress.
 
