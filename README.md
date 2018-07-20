@@ -39,3 +39,11 @@ ReactJS API app communicates with the CryptoCompare API and retrieves the 30 mos
 View the project live on Heroku:
 
 https://cryptobomb.herokuapp.com/
+
+**4. React Web Scraper
+
+React app that queries and displays articles from the New York Times based on user searches. The app uses Node, Express and MongoDB so that users can save articles to read later.
+
+View the project live on Heroku:
+
+https://react-is-awesome.herokuapp.com/
